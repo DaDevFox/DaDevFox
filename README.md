@@ -1,5 +1,4 @@
-full stack developer + student @ UMD who likes games :)
-
+_full stack developer | student @ UMD | likes games_
 
 **Apps & Websites**:
 
