@@ -23,25 +23,4 @@ I learned C++ by writing **[AsteroidsSDL](https://github.com/DaDevFox/AsteroidsS
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-![code](./metrics.plugin.code.svg) 
-![calendar](./metrics.plugin.isocalendar.svg)
-
-<p align="center"><img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400"><img src="/metrics.plugin.code.svg" alt="Metrics" width="400"></p>
-
-
-
-
-<!--
-**DaDevFox/DaDevFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="/metrics.plugin.code.svg" alt="Metrics" width="400"><img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400"></p>
