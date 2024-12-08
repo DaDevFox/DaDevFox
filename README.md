@@ -1,4 +1,4 @@
-I'm a full stack developer who likes games :)
+full stack developer + student @ UMD who likes games :)
 
 
 **Apps & Websites**:
