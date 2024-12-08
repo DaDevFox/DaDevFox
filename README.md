@@ -23,4 +23,4 @@ I learned C++ by writing **[AsteroidsSDL](https://github.com/DaDevFox/AsteroidsS
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-<p align="center"><img src="/metrics.plugin.code.svg" alt="Metrics" width="400"><img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400"><img src="/metrics.plugin.code.svg" alt="Metrics" width="400"></p>
