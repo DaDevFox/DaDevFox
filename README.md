@@ -1,6 +1,6 @@
 
-![./metrics.plugin.code.svg]
-![./metrics.plugin.isocalendar.svg]
+![code](./metrics.plugin.code.svg)
+![calendar](./metrics.plugin.isocalendar.svg)
 
 
 
