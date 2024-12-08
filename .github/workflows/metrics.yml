@@ -16,4 +16,28 @@ jobs:
     steps:
       - uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
         with:
+          filename: metrics.plugin.code.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_code: yes
+          plugin_code_languages: javascript, typescript, C#, Go, Rust, Cpp, C
+          plugin_code_load: 400
+
+      - name: Half-year calendar
+        uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+
+     # - uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
+     #   with:
+     #       template: repository
+     #       filename: metrics.repository.AsteroidsSDL.svg
+     #       token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+     #       user: lowlighter
+     #       repo: AsteroidsSDL2
+     #       plugin_lines: yes
+     #       plugin_projects_repositories: lowlighter/metrics/projects/1
+
