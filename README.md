@@ -1,7 +1,7 @@
-Full Stack/Application Developer
+## Full Stack/Application Developer
 
 
-### Game development and modding work:
+#### Game development/modding:
 
 I learned C++ and CMake by writing **[AsteroidsSDL](https://github.com/DaDevFox/AsteroidsSDL2)** (asteroids but you play as the asteroid) in the SDL2 Library. I made the [Elevation](https://github.com/DaDevFox/KCMod_Elevation) mod and an extensible [Reskin Engine](https://github.com/DaDevFox/KC_ReskinEngine) for **[Kingdoms and Castles](https://store.steampowered.com/app/569480/Kingdoms_and_Castles/)** among [others](https://github.com/DaDevFox/KCMods). 
 
