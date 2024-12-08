@@ -10,7 +10,7 @@ I help UMD students track course seat availability with **[testudo.courses](http
 
 
 **utilities**:
-I selectively sync files efficiently using **[Hivemind (WIP)](https://github.com/DaDevFox/Hivemind)**; search Word and Excel files from my **[PowerToys Run Extension](https://github.com/DaDevFox/Powertoys-Office-Search)**; and control my Roku TV [with Python](https://github.com/DaDevFox/RokuAutomation) (and iOS shortcuts).
+I selectively and efficiently sync files using **[Hivemind (WIP)](https://github.com/DaDevFox/Hivemind)**; search Word and Excel files from my **[PowerToys Run Extension](https://github.com/DaDevFox/Powertoys-Office-Search)**; and control my Roku TV [with Python](https://github.com/DaDevFox/RokuAutomation) (and iOS shortcuts).
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
