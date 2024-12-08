@@ -26,6 +26,8 @@ I learned C++ by writing **[AsteroidsSDL](https://github.com/DaDevFox/AsteroidsS
 ![code](./metrics.plugin.code.svg) 
 ![calendar](./metrics.plugin.isocalendar.svg)
 
+<p align="center"><img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400"><img src="/metrics.plugin.code.svg" alt="Metrics" width="400"></p>
+
 
 
 
