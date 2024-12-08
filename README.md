@@ -23,7 +23,8 @@ I learned C++ by writing **[AsteroidsSDL](https://github.com/DaDevFox/AsteroidsS
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-![code](./metrics.plugin.code.svg)
+<img src="./metrics.plugin.code.svg" alt="Code Snippet of the Day" width="300" height="200">
+
 ![calendar](./metrics.plugin.isocalendar.svg)
 
 
