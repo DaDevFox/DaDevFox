@@ -27,6 +27,8 @@ jobs:
       - name: Half-year calendar
         uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
         with:
+          output_action: gist
+          committer_gist: a9e7305bfd6799b97fc7081152bb9f30
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
