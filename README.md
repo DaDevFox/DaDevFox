@@ -4,7 +4,6 @@ _full stack developer | student @ UMD | likes games_
 I help UMD students track course seat availability with **[testudo.courses](https://github.com/DaDevFox/testudo-tracker)**; manage and track food consumption with my [consumable-inventory (WIP)](https://github.com/DaDevFox/consumable-inventory-mobile); and host my open-source [personal website](https://github.com/DaDevFox/PersonalWebsite) on GitHub.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
