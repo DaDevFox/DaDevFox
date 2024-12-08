@@ -3,7 +3,7 @@
 
 #### Game development/modding:
 
-I learned C++ and CMake by writing **[AsteroidsSDL](https://github.com/DaDevFox/AsteroidsSDL2)** (asteroids but you play as the asteroid) in the SDL2 Library. I made the [Elevation](https://github.com/DaDevFox/KCMod_Elevation) mod and an extensible [Reskin Engine](https://github.com/DaDevFox/KC_ReskinEngine) for **[Kingdoms and Castles](https://store.steampowered.com/app/569480/Kingdoms_and_Castles/)** among [others](https://github.com/DaDevFox/KCMods). 
+I learned C++ by writing **[AsteroidsSDL](https://github.com/DaDevFox/AsteroidsSDL2)** (asteroids but you play as the asteroid) with SDL2. I made an educational [3D rocket-racing](https://github.com/DaDevFox/SpaceRace) game and a [trivia](https://github.com/DaDevFox/TriviaGame) game. I published **[Elevation](https://github.com/DaDevFox/KCMod_Elevation)**, an extensible [Reskin Engine](https://github.com/DaDevFox/KC_ReskinEngine), and [much more](https://github.com/DaDevFox/KCMods) for **[Kingdoms and Castles](https://store.steampowered.com/app/569480/Kingdoms_and_Castles/)**. 
 
 <!--![code](./metrics.plugin.code.svg)-->
 ![calendar](./metrics.plugin.isocalendar.svg)
