@@ -14,7 +14,6 @@ I selectively and efficiently sync files using **[Hivemind (WIP)](https://github
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 **games/mods**:
 I learned C++ by writing **[AsteroidsSDL](https://github.com/DaDevFox/AsteroidsSDL2)** with SDL2; developed a [3D rocket-racing](https://github.com/DaDevFox/SpaceRace) and [trivia](https://github.com/DaDevFox/TriviaGame) game in Unity/C#; and published **[Elevation](https://github.com/DaDevFox/KCMod_Elevation)**, an extensible **[Reskin Engine](https://github.com/DaDevFox/KC_ReskinEngine)**, and [much more](https://github.com/DaDevFox/KCMods) for **[Kingdoms and Castles](https://store.steampowered.com/app/569480/Kingdoms_and_Castles/)**. 
