@@ -22,7 +22,7 @@ jobs:
           plugin_code: yes
           plugin_code_languages: javascript, typescript, C#, Go, Rust, Cpp, C
           plugin_code_load: 400
-          plugin_code_days: 60
+          plugin_code_days: 120
 
       - name: Half-year calendar
         uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
